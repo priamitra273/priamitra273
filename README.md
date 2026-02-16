@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Priamitra 👋
 
-<!--
-**priamitra273/priamitra273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **Informatics Engineering Graduate (S.T.)** from Universitas Pasundan and a **Cloud Computing Alum** from Bangkit Academy. I specialize in building robust web applications using the MERN stack and deploying them with cloud best practices.
 
-Here are some ideas to get you started:
+### 🎓 Education & Certifications
+- **Bachelor of Engineering (S.T.)** in Informatics Engineering, Universitas Pasundan
+- **Bangkit Academy Graduate (Cloud Computing)** – A Google-led program focused on GCP, scalability, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+**[Web-Based Student Grade Monitoring System](https://github.com/priamitra273/Ta)**
+- A full-stack solution built to digitalize student academic records at SDN 1 Langensari.
+- Developed using **React**, **Node.js**, and **Express**.
+
+### 🛠️ Tech Stack
+- **Frontend:** 
+- **Backend:** 
+- **Cloud & DevOps:**
+- **Database:** 
+
+### 📊 GitHub Stats
+![Priamitra's GitHub stats](https://github-readme-stats.vercel.app/api?username=priamitra273&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priamitra273&layout=compact&theme=radical)
+
+---
+📫 **Get in touch:** [LinkedIn Profile] | [Email Kamu]
