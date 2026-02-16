@@ -1,6 +1,6 @@
 # Hi, I'm Priamitra 👋
 
-I am an **Informatics Engineering Graduate ** from Universitas Pasundan and a **Bangkit Academy 2024 ** specializing in Cloud Computing.
+I am an **Informatics Engineering Graduate** from Universitas Pasundan and a **Bangkit Academy 2024** specializing in Cloud Computing.
 
 As a software engineer focused on **Web Development**, I have hands-on experience in building and deploying web applications independently. I am proficient in front-end development using **React** and **Vite**, as well as back-end development using **Node.js**, **Express.js**, or **PHP/Laravel**, with database management experience using **MySQL**.
 
