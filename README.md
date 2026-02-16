@@ -1,16 +1,20 @@
 # Hi, I'm Priamitra 👋
 
-I am an **Informatics Engineering Graduate (S.T.)** from Universitas Pasundan and a **Cloud Computing Alum** from Bangkit Academy. My expertise lies in building robust web applications using the **MERN Stack** (MongoDB, Express.js, React, Node.js) and deploying them with modern cloud infrastructure, specifically **Google Cloud Platform (GCP)**. Recently, I completed my thesis project titled **"Rancang Bangun Sistem Monitoring Nilai Siswa Berbasis Web"** as a case study for SDN 1 Langensari, where I utilized **Vite** and **Tailwind CSS** to create a seamless user experience.
+I am an **Informatics Engineering Graduate (B.Eng. / S.T.)** from Universitas Pasundan and a **Bangkit Academy 2024 Alum** specializing in Cloud Computing.
+
+As a software engineer focused on **Web Development**, I have hands-on experience in building and deploying web applications independently. I am proficient in front-end development using **React** and **Vite**, as well as back-end development using **Node.js**, **Express.js**, or **PHP/Laravel**, with database management experience using **MySQL**.
+
+Furthermore, I possess expertise in **Cloud Computing with Google Cloud Platform (GCP)**, enabling me to bridge the gap between development and efficient cloud infrastructure. I am skilled in developing **RESTful APIs** and dedicated to building innovative, production-ready solutions.
 
 ---
 
-### 📱 Get in touch:
+### 📱 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN_KAMU)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_KAMU@gmail.com)
 
 ---
 
-### 📊 My GitHub Stats & Tech Stack
+### 📊 GitHub Stats & Tech Stack
 <table>
   <tr>
     <td width="50%" valign="top">
