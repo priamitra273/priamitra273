@@ -16,7 +16,6 @@ Furthermore, I possess expertise in **Cloud Computing with Google Cloud Platform
 
 ### 📊 GitHub Stats & Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats-vert-six-48.vercel.app/api?username=priamitra273&show_icons=true&theme=radical&custom_title=My%20GitHub%20Statistics&hide_border=false&card_width=450" height="180" />
   <img src="https://github-readme-stats-vert-six-48.vercel.app/api/top-langs/?username=priamitra273&theme=radical&custom_title=My%20Programming%20Languages&layout=compact&hide_border=false&card_width=450&langs_count=8" height="180" />
 </div>
 
