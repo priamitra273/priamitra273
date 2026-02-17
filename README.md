@@ -18,10 +18,10 @@ Furthermore, I possess expertise in **Cloud Computing with Google Cloud Platform
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats-vert-six-48.vercel.app/api?username=priamitra273&show_icons=true&theme=radical&hide_border=false" width="100%" />
+      <img src="https://github-readme-stats-vert-six-48.vercel.app/api?username=priamitra273&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Statistics&hide_border=false" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-readme-stats-vert-six-48.vercel.app/api?username=priamitra273&layout=compact&theme=radical&hide_border=false" width="100%" />
+      <img src="https://github-readme-stats-vert-six-48.vercel.app/api/top-langs/?username=priamitra273&theme=tokyonight&custom_title=My%20Programming%20Languages&layout=compact&hide_border=false" width="100%" />
     </td>
   </tr>
 </table>
